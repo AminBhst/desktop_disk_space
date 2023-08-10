@@ -19,7 +19,7 @@ desktop_disk_space: ^0.0.1
 ```
 
 ## Note
-* This plugin is under development and currently only supports windows.<p>
+* This plugin is under development and currently only supports windows.
 * Support for Linux will be added in the future.
 * Pull requests are welcome (especially for MacOS support)
 
