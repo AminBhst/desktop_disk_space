@@ -1,0 +1,3 @@
+C:/Dev/desktop_disk_space/windows/cmake-build-debug/CMakeFiles/desktop_disk_space_plugin.dir
+C:/Dev/desktop_disk_space/windows/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Dev/desktop_disk_space/windows/cmake-build-debug/CMakeFiles/rebuild_cache.dir

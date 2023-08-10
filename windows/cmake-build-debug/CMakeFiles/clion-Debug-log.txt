@@ -1,0 +1,7 @@
+"C:\Program Files\JetBrains\CLion 2023.1.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.1.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Dev\desktop_disk_space\windows -B C:\Dev\desktop_disk_space\windows\cmake-build-debug
+CMake Error at CMakeLists.txt:32 (apply_standard_settings):
+  Unknown CMake command "apply_standard_settings".
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Dev/desktop_disk_space/windows/cmake-build-debug/CMakeFiles/CMakeOutput.log".
