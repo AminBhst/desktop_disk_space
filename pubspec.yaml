@@ -1,5 +1,5 @@
 name: desktop_disk_space
-description: A Flutter plugin to query the disk space in desktop
+description: A Flutter plugin to query the disk space on desktop
 version: 0.0.1
 homepage: https://github.com/AminBhst/desktop_disk_space
 
