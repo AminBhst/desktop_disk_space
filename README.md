@@ -3,7 +3,7 @@
 
 # desktop_disk_space
 
-A Flutter plugin to query the disk space in desktop
+A Flutter plugin to query the disk space on desktop
 
 ## Installing
 
